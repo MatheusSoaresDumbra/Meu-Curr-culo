@@ -1,0 +1,13 @@
+.container img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+.informacoes h1{
+    background-color: #0A99FE;
+    border: transparent;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
