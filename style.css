@@ -1,13 +1,28 @@
+body{
+background-image: url(assets/fundo5.webp); 
+}
+
+li{
+color: white;
+font-family: 'Roboto', sans-serif;
+}
 .container img {
     max-width:200px;
     max-height:150px;
     width: auto;
     height: auto;
 }
+img{
+    border-color: black;
+    background-color: black;
+    align-items: flex-end;
+}
 .informacoes h1{
-    background-color: #0A99FE;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
     border: transparent;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-weight: 400;
+    text-align: center;
 }
